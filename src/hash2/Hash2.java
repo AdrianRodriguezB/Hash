@@ -8,7 +8,7 @@ package hash2;
 import java.util.Arrays;
 /**
  *
- * @author SELENE ZAMORA
+ * @author Admin
  */
 public class Hash2 {
 
